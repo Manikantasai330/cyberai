@@ -27,7 +27,7 @@ AI-Intrusion-Detection/
 
 Setup & Installation
 1️⃣ Clone the repository
-git clone https://github.com/manikantasai330/AI-Intrusion-Detection.git
+git clone https://github.com/Manikantasai330/cyberai.git
 cd AI-Intrusion-Detection
 2️⃣ Install dependencies
 
